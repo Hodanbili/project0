@@ -1,0 +1,14 @@
+
+body{
+    background-color: antiquewhite;
+}
+.center{
+   justify-items: center;
+  padding: 100px;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding: auto;
+}
+  
+
